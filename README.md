@@ -5,6 +5,7 @@ Requirements:
 
 Composer
 ZzAntares ProxmoxVE API Client
-Actual content moved here
+
+Actual content moved [here](https://github.com/openbsod/webproxmgr)
 
 TODO.. https://github.com/openbsod/webproxmgr
