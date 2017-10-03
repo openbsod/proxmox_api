@@ -3,8 +3,8 @@ Proxmox API examples
 
 Requirements:
 
-Composer
-ZzAntares ProxmoxVE API Client
+- [Composer](https://getcomposer.org/download)
+- [ZzAntares ProxmoxVE API Client](https://github.com/ZzAntares/ProxmoxVE)
 
 Actual content moved [here](https://github.com/openbsod/webproxmgr)
 
